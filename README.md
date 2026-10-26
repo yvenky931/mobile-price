@@ -29,10 +29,10 @@ source .venv/bin/activate        # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 
 python train_model.py            # optional: model.pkl is already included
-python app.py                    # open http://localhost:5000
+python app.py                    # http://localhost:5000/
 ```
 
-## Features used
+## Features usedhttp://localhost:5000/
 
 | Feature | Meaning |
 |---|---|
